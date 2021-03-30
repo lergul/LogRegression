@@ -19,9 +19,6 @@ ylabel('Exam 2 score')
 % Specified in plot order
 legend('Admitted', 'Not admitted')
 
-%% Implementation
-% Provide input values to the sigmoid function below and run to check your implementation
-sigmoid(0) %Checking to function is working right
 
 %% Cost function and gradient
 %  Setup the data matrix appropriately
